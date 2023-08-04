@@ -25,7 +25,11 @@ header {
 .description {
   white-space: pre-wrap;
 }
-
+.time-block-container{
+  width: screen;
+  margin-left: 8%;
+  margin-right: 8%;
+}
 .time-block {
   text-align: center;
   border-radius: 15px;
@@ -74,6 +78,9 @@ header {
   border-bottom-right-radius: 15px;
   background-color: #06aed5;
   color: white;
+  height: 80px;
+  padding-right: 40px;
+  padding-left: 40px;
 }
 
 .saveBtn i:hover {
