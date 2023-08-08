@@ -1,5 +1,5 @@
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
 }
@@ -25,21 +25,10 @@ header {
 .description {
   white-space: pre-wrap;
 }
-.time-block-container{
-  width: screen;
-  margin-left: 8%;
-  margin-right: 8%;
-}
+
 .time-block {
   text-align: center;
   border-radius: 15px;
-  background-color: #d3d3d3;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin: 1px;
-  border-top: 1px solid white;
-  height: 80px;
 }
 
 .row {
@@ -49,9 +38,6 @@ header {
 }
 
 .hour {
-  width: 150px;
-  text-align: center;
-  height: 100%;
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
@@ -78,9 +64,6 @@ header {
   border-bottom-right-radius: 15px;
   background-color: #06aed5;
   color: white;
-  height: 80px;
-  padding-right: 40px;
-  padding-left: 40px;
 }
 
 .saveBtn i:hover {
