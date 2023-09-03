@@ -21,4 +21,4 @@ Persist events between refreshes of a page.
 
 ## Installation
 No installation is required. 
-Deployed link: https://huihuihui07.github.io/W7-planner-app-lesson/
+Deployed link: https://huihuihui07.github.io/planner-app-lesson/
